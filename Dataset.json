@@ -1,0 +1,175 @@
+{
+  "intents": [
+
+    {
+      "tag": "physics_lab",
+      "patterns": [
+        "where is physics lab",
+        "physics lab location",
+        "physics laboratory",
+        "h block physics lab",
+        "physics practical lab"
+      ],
+      "responses": [
+        "Physics Lab is located on the 3rd Floor of H Block."
+      ]
+    },
+
+    {
+      "tag": "chemistry_lab",
+      "patterns": [
+        "where is chemistry lab",
+        "chemistry lab location",
+        "chemistry laboratory",
+        "a block chemistry lab"
+      ],
+      "responses": [
+        "Chemistry Lab is located on the 3rd Floor of A Block."
+      ]
+    },
+
+    {
+      "tag": "rdbms_lab",
+      "patterns": [
+        "where is rdbms lab",
+        "a21 location",
+        "rdbms laboratory",
+        "database lab a21"
+      ],
+      "responses": [
+        "RDBMS Lab is A21 located on the 2nd Floor of A Block."
+      ]
+    },
+
+    {
+      "tag": "data_structures_lab",
+      "patterns": [
+        "where is data structures lab",
+        "data structures laboratory",
+        "a22 lab",
+        "ds lab location"
+      ],
+      "responses": [
+        "Data Structures Lab is located on the 2nd Floor of A Block near A21."
+      ]
+    },
+
+    {
+      "tag": "case_tools_lab",
+      "patterns": [
+        "where is case tools lab",
+        "h23 location",
+        "case tools laboratory"
+      ],
+      "responses": [
+        "Case Tools Lab is H23 located on the 2nd Floor of H Block."
+      ]
+    },
+
+    {
+      "tag": "communication_lab",
+      "patterns": [
+        "where is communication lab",
+        "a11 location",
+        "communications laboratory"
+      ],
+      "responses": [
+        "Communications Laboratory is A11 on the 1st Floor of A Block."
+      ]
+    },
+
+    {
+      "tag": "ece_lab",
+      "patterns": [
+        "where is ece lab",
+        "ece laboratory",
+        "e11 lab",
+        "j31 ece lab"
+      ],
+      "responses": [
+        "ECE Laboratory is located at E11 on the 1st Floor of E Block or J31 on the 3rd Floor of J Block."
+      ]
+    },
+
+    {
+      "tag": "eee_lab",
+      "patterns": [
+        "where is eee lab",
+        "eee laboratory",
+        "eee practical lab"
+      ],
+      "responses": [
+        "EEE Laboratory is located at E11 on the 1st Floor of E Block or J31 on the 3rd Floor of J Block."
+      ]
+    },
+
+    {
+      "tag": "mechanical_lab",
+      "patterns": [
+        "where is mechanical lab",
+        "mechanical laboratory"
+      ],
+      "responses": [
+        "Mechanical Labs are located on the Ground Floor of B Block and I Block."
+      ]
+    },
+
+    {
+      "tag": "auditorium",
+      "patterns": [
+        "where is auditorium",
+        "main auditorium",
+        "g01 location"
+      ],
+      "responses": [
+        "Main Auditorium is G01 located on the Ground Floor of G Block."
+      ]
+    },
+
+    {
+      "tag": "mini_auditorium",
+      "patterns": [
+        "where is mini auditorium",
+        "f11 location"
+      ],
+      "responses": [
+        "Mini Auditorium is F11 on the 1st Floor of F Block."
+      ]
+    },
+
+    {
+      "tag": "library",
+      "patterns": [
+        "where is library",
+        "library location",
+        "g block library"
+      ],
+      "responses": [
+        "Library is located on the 1st and 2nd Floors of G Block. Entrance is on the 2nd Floor."
+      ]
+    },
+
+    {
+      "tag": "printer_shop",
+      "patterns": [
+        "where is printer shop",
+        "print shop location"
+      ],
+      "responses": [
+        "Printer Shop is on the Ground Floor near the side exit door."
+      ]
+    },
+
+    {
+      "tag": "center_of_peace",
+      "patterns": [
+        "where is center of peace",
+        "c20 location"
+      ],
+      "responses": [
+        "Center of Peace is C20 located on the 2nd Floor of C Block."
+      ]
+    }
+
+  ]
+}
